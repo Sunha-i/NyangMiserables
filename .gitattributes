@@ -1,0 +1,5 @@
+Engine/Binaries/Win64/UnrealGame.exe filter=lfs diff=lfs merge=lfs -text
+Engine/Binaries/Win64/UnrealGame.pdb filter=lfs diff=lfs merge=lfs -text
+TEAM/Content/Paks/TEAM-Windows.ucas filter=lfs diff=lfs merge=lfs -text
+
+* linguist-vendored
